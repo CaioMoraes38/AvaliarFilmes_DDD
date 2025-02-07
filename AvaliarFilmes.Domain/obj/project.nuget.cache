@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jmgrg2X1hhE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Caio\\source\\repos\\AvaliarFilmes\\AvaliarFilmes.Domain\\AvaliarFilmes.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Caio\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

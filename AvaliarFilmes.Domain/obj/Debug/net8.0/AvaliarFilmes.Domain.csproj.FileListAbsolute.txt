@@ -1,0 +1,13 @@
+C:\Users\Caio\source\repos\AvaliarFilmes\AvaliarFilmes.Domain\bin\Debug\net8.0\AvaliarFilmes.Domain.deps.json
+C:\Users\Caio\source\repos\AvaliarFilmes\AvaliarFilmes.Domain\bin\Debug\net8.0\AvaliarFilmes.Domain.dll
+C:\Users\Caio\source\repos\AvaliarFilmes\AvaliarFilmes.Domain\bin\Debug\net8.0\AvaliarFilmes.Domain.pdb
+C:\Users\Caio\source\repos\AvaliarFilmes\AvaliarFilmes.Domain\obj\Debug\net8.0\AvaliarFilmes.Domain.csproj.AssemblyReference.cache
+C:\Users\Caio\source\repos\AvaliarFilmes\AvaliarFilmes.Domain\obj\Debug\net8.0\AvaliarFilmes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio\source\repos\AvaliarFilmes\AvaliarFilmes.Domain\obj\Debug\net8.0\AvaliarFilmes.Domain.AssemblyInfoInputs.cache
+C:\Users\Caio\source\repos\AvaliarFilmes\AvaliarFilmes.Domain\obj\Debug\net8.0\AvaliarFilmes.Domain.AssemblyInfo.cs
+C:\Users\Caio\source\repos\AvaliarFilmes\AvaliarFilmes.Domain\obj\Debug\net8.0\AvaliarFilmes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Caio\source\repos\AvaliarFilmes\AvaliarFilmes.Domain\obj\Debug\net8.0\AvaliarFilmes.Domain.sourcelink.json
+C:\Users\Caio\source\repos\AvaliarFilmes\AvaliarFilmes.Domain\obj\Debug\net8.0\AvaliarFilmes.Domain.dll
+C:\Users\Caio\source\repos\AvaliarFilmes\AvaliarFilmes.Domain\obj\Debug\net8.0\refint\AvaliarFilmes.Domain.dll
+C:\Users\Caio\source\repos\AvaliarFilmes\AvaliarFilmes.Domain\obj\Debug\net8.0\AvaliarFilmes.Domain.pdb
+C:\Users\Caio\source\repos\AvaliarFilmes\AvaliarFilmes.Domain\obj\Debug\net8.0\ref\AvaliarFilmes.Domain.dll
