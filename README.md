@@ -108,10 +108,7 @@ Antes de rodar o projeto, certifique-se de ter instalado:
 ✅ Interface estilizada com **Realtaizor**  
 ✅ Persistência dos dados via **Entity Framework** e **MySQL**  
 
-## 📄 Licença
-Este projeto é acadêmico e pode ser utilizado para fins educacionais.
 
----
 
-📧 **Contato:** Se tiver dúvidas ou sugestões, entre em contato!
+
 
